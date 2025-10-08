@@ -176,17 +176,6 @@ O projeto **ConectaFeira** será desenvolvido utilizando tecnologias modernas e 
 
 ---
 
-## 👨‍💻 Equipe do projeto e seus papéis na Equipe
-
-| Membro                                | Mátricula | Papel na Equipe | Responsabilidades |
-|---------------------------------------|---------------------|-----------------|-------------------|
-| **Ricardo Montesuma Filho**           | 2327749                   | Líder do Projeto & Desenvolvedor Fullstack | Coordenação geral do projeto, definição da arquitetura, integração entre backend e frontend, acompanhamento das entregas e apoio em todas as áreas técnicas. |
-| **Marcos Guilherme Rabelo**           | 2415512                  | Arquiteto de Software & Backend Developer | Definição de padrões arquiteturais, desenvolvimento da API em Node.js, modelagem de banco de dados e regras de negócio. |
-| **Fernando Ivo Negreiro da Silva**    | 2317776                   | Frontend Web Developer | Implementação da interface web (React), integração com a API e foco na usabilidade do sistema para administradores e feirantes. |
-| **Carlos Roberto Pereira da Silva Filho** | 2326155                | Mobile Developer | Desenvolvimento do aplicativo mobile (Android Studio / React Native), criação dos protótipos e integração com a API. |
-| **Antônia Tamires Melo de Sousa**     | 2314703                   | Documentação & QA (Quality Assurance) | Elaboração da documentação do projeto, apoio nos testes funcionais, validação de requisitos e registro de problemas/ajustes. |
-
----
 
 ## 📆 Cronograma de Desenvolvimento
 
